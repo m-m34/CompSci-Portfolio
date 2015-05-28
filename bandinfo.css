@@ -1,0 +1,134 @@
+#htmlIMP p{
+  color:white;
+
+  
+}
+#htmlIMP{
+  background-color:grey;
+}
+#cssIMP p{
+  color:white;
+  
+  
+  
+}
+#cssIMP{
+  background-color:green;
+}
+#htmlIMP, #cssIMP{
+  border:solid 2px black;
+}
+#tagsIMP p{
+   color:white;
+   
+   
+   
+   
+   
+   
+}
+#tagsIMP{
+  border:solid 2px black;
+}
+#tagsIMP{
+  background-color:grey;
+}
+
+#fouredifferenttagsIMP p{
+   color:white;
+}
+#fouredifferenttagsIMP{
+    border:solid 2px black;
+}
+#fouredifferenttagsIMP{
+  background-color:green;
+}
+img{
+  height:200px;
+}
+
+
+
+.animate {
+    -webkit-animation: animate_bg 5s;
+    animation: animate_bg 5s;
+    -webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+}
+
+@keyframes animate_bg {
+    0%   {background:red;}
+    50%  {background:violet;}
+    100% {background:purple;}
+}
+
+@-webkit-keyframes animate_bg {
+    0%   {background:red;}
+    50%  {background:violet;}
+    100% {background:purple;}
+}
+body{
+  background-color:black;
+}
+#FirstpartIMP  p{
+  color:white;
+}
+.animate {
+    -webkit-animation: animate_bg 5s;
+    animation: animate_bg 5s;
+    -webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+}
+
+@keyframes animate_bg {
+    0%   {background:blue;}
+    50%  {background:violet;}
+    100% {background:purple;}
+}
+
+@-webkit-keyframes animate_bg {
+    0%   {background:blue;}
+    50%  {background:violet;}
+    100% {background:purple;}
+}
+#SecondpartIMP p{
+  color:white;
+}
+#ThirdpartIMP p{
+  color:white;
+}
+img{
+  height:200FifthpartIMP p{
+  color:white;
+}px;
+}
+#ForthpartIMP p{
+  color:white;
+}
+#FifthpartIMP p{
+  color:white;
+}
+#IMP p{
+  color:white;
+}
+#motherboardIMP p{
+  color:white;
+}
+#CPU p{
+  color:white;
+}
+#RAM p{
+  color:white;
+}
+#driveIMP p{
+  color:white;
+}
+#powerIMP p{
+  color:white;
+}
+#componentsIMP p{
+  color:white;
+}
+#stuffIMP p{
+  color:white;
+}
